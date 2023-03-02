@@ -17,6 +17,7 @@ class Bot(Client):
             name="Bot",
             api_hash=API_HASH,
             api_id=APP_ID,
+            api_key=API_KEY,
             plugins={
                 "root": "plugins"
             },
