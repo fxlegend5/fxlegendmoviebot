@@ -24,8 +24,8 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 
-#api key
-API_KEY = os.environ.get("API_KEY", ""))
+#apikey
+API_KEY = os.environ.get("API_KEY", "")
 
 #Port
 PORT = os.environ.get("PORT", "8080")
